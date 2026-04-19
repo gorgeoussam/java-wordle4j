@@ -1,0 +1,9 @@
+Loaded dictionary words: 4137
+Hint: аббат
+Move: кучер, feedback: ^---^, stepsLeft: 5
+Move: кросс, feedback: ^^^--, stepsLeft: 4
+Move: окрас, feedback: ^^^--, stepsLeft: 3
+Move: скрип, feedback: -^^+-, stepsLeft: 2
+Move: окрик, feedback: ^-^++, stepsLeft: 1
+Move: ротик, feedback: +++++, stepsLeft: 0
+Game finished. Won: true
